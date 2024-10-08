@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm edukod :wave:
+I'm currently studying Web Development at Mid Sweden University, and excited to build many interesting projects.
 
-<!--
-**edukod/edukod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :black_nib: About me
 
-Here are some ideas to get you started:
+-  :computer: I’m a **beginner** exploring the world of coding
+-  :brain: Right now I'm focusing on JavaScript and Git
+-  :keyboard: My favorite code editor is _Visual Studio Code_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :dart: My goals
+
+1. Someday contribute to an open-source project 
+2. Create a good portfolio
+
+## :mailbox: Contact me
+
+Email: **vikh2300@student.miun.se**
+
+
+  
